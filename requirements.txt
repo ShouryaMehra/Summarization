@@ -1,0 +1,9 @@
+pandas==1.1.5
+fastai==2.4.1
+ohmeow-blurr
+bert-score
+fastcore==1.3.20
+transformers==4.8.2
+requests
+flask==1.1.2
+python-dotenv==0.18.0
